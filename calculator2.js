@@ -6,8 +6,9 @@
 
 
 //Substract
-
-
+function Substract(a,b){
+    showResult('substract '- a - '-' - b,a-b )
+}
 //Divide
 
 
